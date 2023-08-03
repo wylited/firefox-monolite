@@ -7,15 +7,19 @@
     "categories": {
         "work": {
             "slack": "https://slack.com/",
-            "trello": "https://trello.com"
+            "vercel": "https://vercel.com",
+            "whatsapp": "https://web.whatsapp.com/",
+            "figma": "https://figma.com"
         },
-        "news": {
-            "xataka": "https://xataka.com",
-            "theverge": "https://theverge.com"
+        "school": {
+            "lionel": "https://lionel2.com",
+            "poe": "https://poe.com",
+            "gclass": "https://class.google.com"
         },
         "social": {
-            "github": "https://github.com",
-            "reddit": "https://reddit.com"
+            "github": "https://github.com/wyli",
+            "reddit": "https://reddit.com",
+            "discord": "https://discord.com/app"
         }
     }
 }
